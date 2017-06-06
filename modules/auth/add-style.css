@@ -1,0 +1,28 @@
+/* Style definitions for the add new user interface in the authentication module */
+/* Last updated by Ryan Hayes on 6/5/2017 */
+
+
+#userTooShort {
+	display:none;
+}
+.fa-times {
+	color: red;
+}
+#txtUserTooShort {
+	color: red;
+}
+#pwdMatch {
+	display:none;
+}
+.fa-check {
+	color: green;
+}
+#txtPwdMatch {
+	color: green;
+}
+#pwdNoMatch {
+	display:none;
+}
+#txtNoPwdMatch {
+	color: red;
+}
